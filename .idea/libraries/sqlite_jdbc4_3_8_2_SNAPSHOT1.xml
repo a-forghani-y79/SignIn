@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sqlite-jdbc4-3.8.2-SNAPSHOT1">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/sqlite-jdbc4-3.8.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/sqlite-jdbc4-3.8.2-SNAPSHOT.jar!/" />
+    </SOURCES>
+  </library>
+</component>

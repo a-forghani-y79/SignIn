@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/SignIn-SignUp"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="lib" value="project"/>
+		<level name="sqlite-jdbc4-3.8.2-SNAPSHOT1" value="project"/>
+		<level name="jfoenix-8.0.8" value="project"/>
+	</levels>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jfoenix-8.0.8">
+    <archive path="C:/Users/a.forghan/Downloads/jfoenix-8.0.8.jar" />
+  </library>
+  <library name="lib">
+    <archive path="C:/Program Files/Java/javaFX/javafx-sdk-11.0.2/lib/src.zip" />
+    <archive path="C:/Program Files/Java/javaFX/javafx-sdk-11.0.2/lib/javafx-swt.jar" />
+    <archive path="C:/Program Files/Java/javaFX/javafx-sdk-11.0.2/lib/javafx.web.jar" />
+    <archive path="C:/Program Files/Java/javaFX/javafx-sdk-11.0.2/lib/javafx.base.jar" />
+    <archive path="C:/Program Files/Java/javaFX/javafx-sdk-11.0.2/lib/javafx.fxml.jar" />
+    <archive path="C:/Program Files/Java/javaFX/javafx-sdk-11.0.2/lib/javafx.media.jar" />
+    <archive path="C:/Program Files/Java/javaFX/javafx-sdk-11.0.2/lib/javafx.swing.jar" />
+    <archive path="C:/Program Files/Java/javaFX/javafx-sdk-11.0.2/lib/javafx.controls.jar" />
+    <archive path="C:/Program Files/Java/javaFX/javafx-sdk-11.0.2/lib/javafx.graphics.jar" />
+  </library>
+  <library name="sqlite-jdbc4-3.8.2-SNAPSHOT">
+    <archive path="C:/Users/a.forghan/Downloads/sqlite-jdbc4-3.8.2-SNAPSHOT.jar" />
+  </library>
+</eclipse-userlibraries>
+
