@@ -32,7 +32,7 @@
                   <Font name="System Bold Italic" size="20.0" />
                </font>
             </JFXButton>
-            <JFXTextField fx:id="textPassword" blendMode="SRC_ATOP" cache="true" cacheHint="SPEED" depthTest="ENABLE" focusColor="#64b5f6" labelFloat="true" layoutY="142.0" prefHeight="35.0" prefWidth="260.0" promptText="Enter Password" style="-fx-background-color: #ecf0f1;">
+            <JFXTextField fx:id="textPassword" blendMode="SRC_ATOP" cache="true" cacheHint="SPEED" depthTest="ENABLE" disable="true" focusColor="#64b5f6" labelFloat="true" layoutY="142.0" prefHeight="35.0" prefWidth="260.0" promptText="Enter Password" style="-fx-background-color: #ecf0f1;">
                <font>
                   <Font name="System Italic" size="13.0" />
                </font>
